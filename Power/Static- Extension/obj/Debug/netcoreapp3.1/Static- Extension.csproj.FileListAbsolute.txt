@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Homeworks\Homework 11 Power\Power\Static- Extension\bin\Debug\netcoreapp3.1\Static- Extension.exe
+C:\Users\HP\Desktop\Homeworks\Homework 11 Power\Power\Static- Extension\bin\Debug\netcoreapp3.1\Static- Extension.deps.json
+C:\Users\HP\Desktop\Homeworks\Homework 11 Power\Power\Static- Extension\bin\Debug\netcoreapp3.1\Static- Extension.runtimeconfig.json
+C:\Users\HP\Desktop\Homeworks\Homework 11 Power\Power\Static- Extension\bin\Debug\netcoreapp3.1\Static- Extension.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Homeworks\Homework 11 Power\Power\Static- Extension\bin\Debug\netcoreapp3.1\Static- Extension.dll
+C:\Users\HP\Desktop\Homeworks\Homework 11 Power\Power\Static- Extension\bin\Debug\netcoreapp3.1\Static- Extension.pdb
+C:\Users\HP\Desktop\Homeworks\Homework 11 Power\Power\Static- Extension\obj\Debug\netcoreapp3.1\Static- Extension.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Homeworks\Homework 11 Power\Power\Static- Extension\obj\Debug\netcoreapp3.1\Static- Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Homeworks\Homework 11 Power\Power\Static- Extension\obj\Debug\netcoreapp3.1\Static- Extension.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Homeworks\Homework 11 Power\Power\Static- Extension\obj\Debug\netcoreapp3.1\Static- Extension.AssemblyInfo.cs
+C:\Users\HP\Desktop\Homeworks\Homework 11 Power\Power\Static- Extension\obj\Debug\netcoreapp3.1\Static- Extension.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Homeworks\Homework 11 Power\Power\Static- Extension\obj\Debug\netcoreapp3.1\Static- Extension.dll
+C:\Users\HP\Desktop\Homeworks\Homework 11 Power\Power\Static- Extension\obj\Debug\netcoreapp3.1\Static- Extension.pdb
+C:\Users\HP\Desktop\Homeworks\Homework 11 Power\Power\Static- Extension\obj\Debug\netcoreapp3.1\Static- Extension.genruntimeconfig.cache
